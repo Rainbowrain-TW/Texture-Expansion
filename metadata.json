@@ -1,0 +1,5 @@
+{
+  "name": "Seamless Texture Generator",
+  "description": "Convert any image into an infinitely tileable seamless texture directly in your browser. Features multiple blending algorithms, tiling preview, and pre-processing tools.",
+  "requestFramePermissions": []
+}
